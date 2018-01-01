@@ -1,4 +1,4 @@
 # Algorithms
 
-My personal archive for algorithms 
+My personal archive for algorithms,
 more coming soon !
