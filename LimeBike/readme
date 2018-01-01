@@ -1,0 +1,6 @@
+run command:
+python test.py
+
+
+also update os.sys path in test.py to project folder
+update input file path in settings.py 
